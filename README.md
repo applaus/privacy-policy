@@ -8,7 +8,7 @@ All personal data processed by us is protected by the Danish Data Protection Act
 - [Security and storage of personal information](#security-and-storage-of-personal-information)
 - [Insight and correction in relation to personal information](#insight-and-correction-in-relation-to-personal-information)
 - [Changes in the Privacy and Cookie Policy](#changes-in-the-privacy-and-cookie-policy)
-- [Contact us about our use of your data](#Contact-us-about-our-use-of-your-data)
+- [Contact us about our use of your data](#contact-us-about-our-use-of-your-data)
 - [Complaint about processing of personal data](#complaint-about-processing-of-personal-data)
 
 ### Collection of personal information
