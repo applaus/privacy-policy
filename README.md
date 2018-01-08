@@ -1,6 +1,13 @@
-# Privacy Policy 
-
 All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applause is responsible for the personal information collected through our website and app
+
+- [Collection of personal information](#heading)
+- [Use of personal information](#heading-1)
+- [Disclosure of personal information](#heading-2)
+- [Disclosure of personal information](#heading-3)
+- [Security and storage of personal information](#heading-4)
+- [Insight and correction in relation to personal information](#heading-5)
+- [Changes in the Privacy and Cookie Policy](#heading-6)
+- [Complaint about processing of personal data](#heading-7)
 
 ### Collection of personal information
 When you visit the website, or use the app to purchase tickets, you may be asked to provide information about yourself, for example. Your name, contact information (phone number and e-mail address) and credit card information. We may also collect information about your use of the website and the app as well as information about you based on the material (such as messages and notices) that you publish on the website and the emails or letters you send to us as well as Information provided using facebook login.
@@ -30,7 +37,7 @@ We protect your personal information in accordance with the Personal Data Act (โ
 
 If you have chosen a password that gives you access to certain parts of Applause, you are responsible for keeping this password secret. We advise you not to provide your password to anyone.
 
-### Insight and correction in relation to personal information</Subtitle>
+### Insight and correction in relation to personal information
 You are entitled to view the personal information we have registered about you and you may ask us to make changes to ensure that your personal information is accurate and up-to-date as well as you may object to the registration. These rights are governed by the Personal Data Act and you can, by addressing Applause, be informed of which personal data Applaus is processing about you, for what purpose we use your data, who receives the information, and from where the information originates.
 
 If you require us to provide you with written insight into your personal information, we reserve the right to claim DKK 10 for each printed page. However, the payment cannot exceed DKK 200. We reserve the right only to reply your inquiry if at least 6 months have elapsed since your last inquiry.
@@ -38,7 +45,7 @@ If you require us to provide you with written insight into your personal informa
 ### Changes in the Privacy and Cookie Policy
 Any change of our Privacy and Cookie Policy will be published on the website and via e-mail, if applicable.
 
-### Complaint about processing of personal data</Subtitle>
+### Complaint about processing of personal data
 You may complain about the processing of information and data relating to you. If there is a complaint about the processing of information, the complaint shall be submitted in accordance with the Personal Data Act, to the Bureau of Data Inspection(Datatilsynet), Persondatalovens ยง 58, stk. 1.
 
 ### Contact
