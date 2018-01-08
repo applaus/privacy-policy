@@ -1,13 +1,15 @@
 All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applause is responsible for the personal information collected through our website and app
 
-- [Collection of personal information](#Collection of personal information)
-- [Use of personal information](#Collection of personal information-1)
-- [Disclosure of personal information](#Collection of personal information-2)
-- [Disclosure of personal information](#Collection of personal information-3)
-- [Security and storage of personal information](#Collection of personal information-4)
-- [Insight and correction in relation to personal information](#Collection of personal information-5)
-- [Changes in the Privacy and Cookie Policy](#Collection of personal information-6)
-- [Complaint about processing of personal data](#Collection of personal information-7)
+### Table of contents
+
+- [Collection of personal information](#collection-of-personal-information)
+- [Use of personal information](#use-of-personal-information)
+- [Disclosure of personal information](#disclosure-of-personal-information)
+- [Security and storage of personal information](#security-and-storage-of-personal-information)
+- [Insight and correction in relation to personal information](#insight-and-correction-in-relation-to-personal-information)
+- [Changes in the Privacy and Cookie Policy](#changes-in-the-privacy-and-cookie-policy)
+- [Complaint about processing of personal data](#complaint-about-processing-of-personal-data)
+- [Contact](#contact)
 
 ### Collection of personal information
 When you visit the website, or use the app to purchase tickets, you may be asked to provide information about yourself, for example. Your name, contact information (phone number and e-mail address) and credit card information. We may also collect information about your use of the website and the app as well as information about you based on the material (such as messages and notices) that you publish on the website and the emails or letters you send to us as well as Information provided using facebook login.
