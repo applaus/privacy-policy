@@ -1,13 +1,13 @@
 All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applause is responsible for the personal information collected through our website and app
 
-- [Collection of personal information](#heading)
-- [Use of personal information](#heading-1)
-- [Disclosure of personal information](#heading-2)
-- [Disclosure of personal information](#heading-3)
-- [Security and storage of personal information](#heading-4)
-- [Insight and correction in relation to personal information](#heading-5)
-- [Changes in the Privacy and Cookie Policy](#heading-6)
-- [Complaint about processing of personal data](#heading-7)
+- [Collection of personal information](#Collection of personal information)
+- [Use of personal information](#Collection of personal information-1)
+- [Disclosure of personal information](#Collection of personal information-2)
+- [Disclosure of personal information](#Collection of personal information-3)
+- [Security and storage of personal information](#Collection of personal information-4)
+- [Insight and correction in relation to personal information](#Collection of personal information-5)
+- [Changes in the Privacy and Cookie Policy](#Collection of personal information-6)
+- [Complaint about processing of personal data](#Collection of personal information-7)
 
 ### Collection of personal information
 When you visit the website, or use the app to purchase tickets, you may be asked to provide information about yourself, for example. Your name, contact information (phone number and e-mail address) and credit card information. We may also collect information about your use of the website and the app as well as information about you based on the material (such as messages and notices) that you publish on the website and the emails or letters you send to us as well as Information provided using facebook login.
