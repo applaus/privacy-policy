@@ -1,5 +1,5 @@
 # Table of contents
-### [Privatlivs- og Cookie-Politik - Danish](#privatlivs--og-cookie-politik---danish)
+### Privatlivs- og Cookie-Politik - Danish
 - [Generelt](#generelt)
 - [Indsamling af Personoplysninger](#indsamling-af-personoplysninger)
 - [Brug af Personoplysninger](#brug-af-personoplysninger)
@@ -9,7 +9,9 @@
 - [Ændringer i Privatlivs- og Cookie-Politikken](#ændringer-i-privatlivs--og-cookie-politikken)
 - [Kontakt Vedrørende Indsigt i Dine Data](#kontakt-vedrørende-indsigt-i-dine-data)
 - [Klage over Behandling af Personoplysninger og Data](#klage-over-behandling-af-personoplysninger-og-data)
-### [Privacy and Cookie Policy - English](#privacy-and-cookie-policy---english)
+
+### Privacy and Cookie Policy - English
+
 - [Generally](#generally)
 - [Collection of Personal Information](#collection-of-personal-information)
 - [Use of Personal Information](#use-of-personal-information)
@@ -19,7 +21,9 @@
 - [Changes in the Privacy and Cookie Policy](#changes-in-the-privacy-and-cookie-policy)
 - [Contact Us About our Use of your Data](#contact-us-about-our-use-of-your-data)
 - [Complaint About Processing of Personal Data](#complaint-about-processing-of-personal-data)
-### [Handelsvilkår - Danish](#handelsvilkår---danish)
+
+### Handelsvilkår - Danish
+
 - [Generelt](#generally)
 - [Refundering af Betaling](#refundering-af-betaling)
 - [Forbehold for Event-ændringer](#forbehold-for-event-ændringer)
@@ -32,7 +36,9 @@
 - [Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale](#klageadgang-over-uopfordret-modtagelse-af-markedsføringsmateriale)
 - [Generelle Købsbetingelser](#generelle-købsbetingelser)
 - [Vilkår for Brug af Applaus](#vilkår-for-brug-af-applaus)
-### [Terms and Conditions - English](#terms-and-conditions---english)
+
+### Terms and Conditions - English
+
 - [Generally](#generally)
 - [Payment Refund](#payment-refund)
 - [Reservations for Event Changes](#reservations-for-event-changes)
