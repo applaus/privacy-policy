@@ -12,7 +12,6 @@
 - [Klageadgang over Modtagelse af Markedsføringsmateriale](#Klageadgang-over-Modtagelse-af-Markedsføringsmateriale)
 - [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
 - [Vilhår for Brug af Applaus](#Vilhår-for-Brug-af-Applaus)
-
 ### [Privacy and Cookie Policy - English](#Privacy-and-Cookie-Policy---English)
 - [Introduction](#Introduction)
 - [Collection of personal information](#collection-of-personal-information)
@@ -23,7 +22,6 @@
 - [Changes in the Privacy and Cookie Policy](#changes-in-the-privacy-and-cookie-policy)
 - [Contact us about our use of your data](#contact-us-about-our-use-of-your-data)
 - [Complaint about processing of personal data](#complaint-about-processing-of-personal-data)
-
 ### [Handelsvilkår - Danish](#Handelsvilkår---Danish)
 - [Introduktion](#Introduktion)
 - [Refundering af Betaling](#Refundering-af-Betaling)
@@ -37,8 +35,7 @@
 - [Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale](#Klageadgang-over-Uopfordret-Modtagelse-af-Markedsføringsmateriale)
 - [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
 - [Vilkår for Brug af Applaus](#Vilkår-for-Brug-af-Applaus)
-
-### [Terms and Conditions (English)](#Terms-and-Conditions---English)
+### [Terms and Conditions - English](#Terms-and-Conditions---English)
 - [Introduction](#Introduction)
 - [Payment Refund](#Payment-Refund)
 - [Reservations for Event Changes](Reservations-for-Event-Changes)
