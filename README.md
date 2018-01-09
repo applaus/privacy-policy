@@ -1,5 +1,5 @@
 # Table of contents
-### [Privatlivs- og Cookie-Politik (Danish)](#Privatlivs-and-Cookie-Politik-(Danish)) 
+### [Privatlivs- og Cookie-Politik - Danish](#Privatlivs--og-Cookie-Politik---Danish)
 - [Generelt](#Generelt)
 - [Refundering af Billetter](#Refundering-af-Billetter)
 - [Forbehold for Event-ændringer](#Forbehold-for-Event-ændringer)
@@ -13,7 +13,7 @@
 - [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
 - [Vilhår for Brug af Applaus](#Vilhår-for-Brug-af-Applaus)
 
-### [Privacy and Cookie Policy (English)](#Privacy-and-Cookie-Policy-(English))
+### [Privacy and Cookie Policy - English](#Privacy-and-Cookie-Policy---English)
 - [Introduction](#Introduction)
 - [Collection of personal information](#collection-of-personal-information)
 - [Use of personal information](#use-of-personal-information)
@@ -24,7 +24,7 @@
 - [Contact us about our use of your data](#contact-us-about-our-use-of-your-data)
 - [Complaint about processing of personal data](#complaint-about-processing-of-personal-data)
 
-### [Handelsvilkår (Danish)](#Handelsvilkår-(Danish))
+### [Handelsvilkår - Danish](#Handelsvilkår---Danish)
 - [Introduktion](#Introduktion)
 - [Refundering af Betaling](#Refundering-af-Betaling)
 - [Forbehold for Event-ændringer](#Forbehold-for-Event-ændringer)
@@ -38,7 +38,7 @@
 - [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
 - [Vilkår for Brug af Applaus](#Vilkår-for-Brug-af-Applaus)
 
-### [Terms and Conditions (English)](#Terms-and-Conditions (English))
+### [Terms and Conditions (English)](#Terms-and-Conditions---English)
 - [Introduction](#Introduction)
 - [Payment Refund](#Payment-Refund)
 - [Reservations for Event Changes](Reservations-for-Event-Changes)
@@ -52,7 +52,7 @@
 - [General Terms of Purchase](#General-Terms-of-Purchase)
 - [Terms for Using Applaus](#Terms-for-Using-Applaus)
 
-# Privatlivs- og Cookie-Politik
+# Privatlivs- og Cookie-Politik - Danish
 ### Generelt
 Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus ApS formidler udelukkende salg af billetter mellem kunden og spillestedet.
 
@@ -100,7 +100,7 @@ Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmesi
 
 5. Du må ikke anvende materiale på denne hjemmeside og app eller selve hjemmesiden og app til kommercielt brug uden at indhente tilladelse fra os hertil. Bortset fra som anført i ovenstående må ingen dele af denne hjemmeside og app gengives eller lagres på en anden hjemmeside eller medtages i et offentligt eller privat søgesystem eller -ydelse uden vor forudgående skriftlige tilladelse. Alle rettigheder, der ikke udtrykkeligt gives i disse vilkår, forbeholdes.
 
-# Privacy and Cookie Policy
+# Privacy and Cookie Policy - English
 ### Introduction
 All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applaus is responsible for the personal information collected through our website and app.
 
@@ -146,7 +146,7 @@ All comments, questions and requests regarding our use of your information shoul
 ### Complaint about processing of personal data
 You may complain about the processing of information and data relating to you. If there is a complaint about the processing of information, the complaint shall be submitted in accordance with the Personal Data Act, to the Bureau of Data Inspection(Datatilsynet), Persondatalovens § 58, stk. 1.
 
-# Handelsvilkår
+# Handelsvilkår - Danish
 ### Introduktion
 Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus formidler udelukkende salg af billetter mellem kunden og spillestedet.
 
@@ -194,7 +194,7 @@ Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmesi
 
 5. Du må ikke anvende materiale på denne hjemmeside og app eller selve hjemmesiden og app til kommercielt brug uden at indhente tilladelse fra os hertil. Bortset fra som anført i ovenstående må ingen dele af denne hjemmeside og app gengives eller lagres på en anden hjemmeside eller medtages i et offentligt eller privat søgesystem eller -ydelse uden vor forudgående skriftlige tilladelse. Alle rettigheder, der ikke udtrykkeligt gives i disse vilkår, forbeholdes.
 
-# Terms & Conditions (English)
+# Terms and Conditions - English
 ### Introduction
 By using and shopping with Applaus, you accept the conditions below. The Terms and Conditions are updated on a regular basis, so we recommend that you keep up to date on this. Applaus exclusively sell tickets on behalf of the venues. In the unprecedented case that there should be any confusion of these Terms and Conditions the Danish version will be treated as the Master version.
 
