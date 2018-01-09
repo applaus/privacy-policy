@@ -1,6 +1,19 @@
-
 # Table of contents
-### Privacy- and Cookie-Policy
+### [Privatlivs and Cookie Politik (Danish)](#Privatlivs-and-Cookie-Politik-(Danish)) 
+- [Generelt](#Generelt)
+- [Refundering af Billetter](#Refundering-af-Billetter)
+- [Forbehold for Event-ændringer](#Forbehold-for-Event-ændringer)
+- [Vores Ansvar som Billetformidler](#Vores-Ansvar-som-Billetformidler)
+- [Aflysning af Event](#Aflysning-af-Event)
+- [Betaling for Billet](#Betaling-for-Billet)
+- [Overdragelse af Billetter](#Overdragelse-af-Billetter)
+- [Særlige Event-begrænsninger](#Særlige-Event-begrænsninger)
+- [Event Adgang](#Event-Adgang)
+- [Klageadgang over Modtagelse af Markedsføringsmateriale](#Klageadgang-over-Modtagelse-af-Markedsføringsmateriale)
+- [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
+- [Vilhår for Brug af Applaus](#Vilhår-for-Brug-af-Applaus)
+
+### [Privacy and Cookie Policy (English)](#Privacy-and-Cookie-Policy-(English))
 - [Introduction](#Introduction)
 - [Collection of personal information](#collection-of-personal-information)
 - [Use of personal information](#use-of-personal-information)
@@ -10,7 +23,22 @@
 - [Changes in the Privacy and Cookie Policy](#changes-in-the-privacy-and-cookie-policy)
 - [Contact us about our use of your data](#contact-us-about-our-use-of-your-data)
 - [Complaint about processing of personal data](#complaint-about-processing-of-personal-data)
-### Terms and Conditions
+
+### [Handelsvilkår (Danish)](#Handelsvilkår-(Danish))
+- [Introduktion](#Introduktion)
+- [Refundering af Betaling](#Refundering-af-Betaling)
+- [Forbehold for Event-ændringer](#Forbehold-for-Event-ændringer)
+- [Vores Ansvar som Billetformidler](#Vores-Ansvar-som-Billetformidler)
+- [Aflysning af Event](#Aflysning-af-Event)
+- [Betaling for Billet](#Betaling-for-Billet)
+- [Videresalg af Billet](#Videresalg-af-Billet)
+- [Særlige Event-begrænsninger](#Særlige-Event-begrænsninger)
+- [Event Adgang](#Event-Adgang)
+- [Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale](#Klageadgang-over-Uopfordret-Modtagelse-af-Markedsføringsmateriale)
+- [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
+- [Vilkår for Brug af Applaus](#Vilkår-for-Brug-af-Applaus)
+
+### [Terms and Conditions(English)](#Terms-and-Conditions(English))
 - [Introduction](#Introduction)
 - [Payment Refund](#Payment-Refund)
 - [Reservations for Event Changes](Reservations-for-Event-Changes)
@@ -24,7 +52,57 @@
 - [General Terms of Purchase](#General-Terms-of-Purchase)
 - [Terms for Using Applaus](#Terms-for-Using-Applaus)
 
-# Introduction
+# Privatlivs og Cookie Politik
+### Generelt
+Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus ApS formidler udelukkende salg af billetter mellem kunden og spillestedet.
+
+### Refundering af Billetter
+Købte billetter refunderes som udgangspunkt ikke. I tilfælde af aflysning henvises der dog til den ansvarlige arrangør for yderligere information og eventuel refundering. Billetter refunderes i disse tilfælde som udgangspunkt altid til billetkøber (I henhold til "Lov om visse forbrugeraftaler § 17 stk. 2 jf. § 9 stk. 2 nr. 2a" er køb af billetter IKKE omfattet af fortrydelsesretten).
+
+Som billetformidler hæfter Applaus ikke for tilbagebetaling i forbindelse med en aflysning. Applaus søger kontraktuelt at sikre, at arrangører refunderer billetkøbesummerne i tilfælde af aflysninger, men kan ikke påtage sig noget forretningsmæssigt ansvar herfor.
+
+### Forbehold for Event-ændringer
+Applaus forbeholder sig retten til at annullere udstedte billetter mod tilbagebetaling af billettens pris samt eventuelle gebyrer. Arrangøren forbeholder sig endvidere ret til i særlige tilfælde at ændre pladstildelingen inden for samme billetkategori, samt at flytte billetten til en anden kategori mod udbetaling af en eventuel prisdifference. Vi tager ligeledes forbehold for fejl og mangler i priser og beskrivelser – herunder udsolgte arrangementer.
+
+### Vores Ansvar som Billetformidler
+Applaus har intet ansvar over for kunden vedrørende arrangørers rekonstruktion, betalingsstandsning, konkurs, aflysning af arrangementer, andre mangler eller eventuelle andre reklamationer vedrørende et arrangement. Al henvendelse herom rettes til arrangøren. Information om arrangørens fulde navn, adresse, telefonnummer m.m. kan fås i appen, på www.applaus.io eller på tlf. +45 26 28 39 06.
+
+### Aflysning af Event
+I tilfælde af aflysning henvises der til den ansvarlige arrangør for yderligere information og eventuel refundering. Arrangøren forbeholder sig ret til at erstatte billetten med en/et tilsvarende kunstner/arrangement. Ændringer i repertoire, dato, delvis gennemførelse af et arrangement sidestilles ikke med en aflysning, hvorfor pengene herfor som udgangspunkt ikke refunderes. Se hertil arrangørens information om arrangementet.
+
+### Betaling for Billet
+Hos Applaus modtages betaling med følgende betalingskort: VISA/Dankort, VISA, MasterCard og American Express. Alle omkostninger fremgår af den viste billetpris. Prisen der ses til at starte med vil derfor være den endelige pris. Personhenførbare oplysninger opbevares og transmitteres i et lukket netværk. Der er altså ikke adgang til disse oplysninger fra internettet. Alle oplysninger vedrørende betalinger sendes krypteret til betalingstjenesten Stripe.
+
+### Overdragelse af Billetter
+Det er, jf. "Lov om videresalg af billetter til kultur- og idrætsarrangementer”, ikke tilladt at sælge og videresælge billetter til overpris i Danmark. Det betyder bl.a., at det er forbudt at videresælge billetter med fortjeneste.
+
+### Særlige Event-begrænsninger
+Bemærk også, at der på de enkelte arrangementer kan være andre eller yderligere begrænsninger i forhold til billetters overdragelighed. Billetter må ikke anvendes kommercielt til pakkesalg, konkurrencer, videresalg eller lignende, medmindre arrangøren har givet tilladelse hertil.
+
+### Event Adgang
+Kontroller billettens oplysninger, herunder om arrangement, dato/tidspunkt og spillested er korrekt. Adgang gives mod indløsning af købt billet, enten på app eller i browseren. Ulovlig kopiering eller videresalg af billetter kan medføre, at adgang nægtes til arrangementet. Applaus og arrangøren har intet ansvar for problemer, som skyldes ulovlig kopiering og/eller videresalg af billetter. Læs mere om arrangementsspecifikke forhold under arrangementet her på Applaus og på arrangørens hjemmeside
+
+### Klageadgang over Modtagelse af Markedsføringsmateriale
+Klageadgang over modtagelse af markedsføringsmateriale</Subtitle>
+  <Paragraph>Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
+
+### Generelle Købsbetingelser
+Købsaftalen er omfattet af dansk rets almindelige regler. Der er først indgået en bindende aftale, når Applaus har modtaget/registreret betaling. Vi forbeholder os ret til, uden forudgående varsel, at ændre disse betingelser. Ændringer gælder herefter efterfølgende ordrer. Det er dit ansvar at tjekke op på, om der er sket ændringer i betingelserne.
+
+### Vilhår for Brug af Applaus
+Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmeside og app til dit eget personlige brug på følgende grundlag:
+1. Du må ikke misbruge Applaus (herunder til hacking eller “scraping”).
+
+2. Medmindre andet fremgår, tilhører ophavsretten, og andre immaterielle rettigheder der udspringer af hjemmeside og app, Applaus (dog tilfalder alle rettigheder ophavsmanden efter gængs ophavsretslovgivning), det samme er gældende for alt materiale, der offentliggøres på den (herunder bl.a. fotografier og grafiske billeder) af Applaus. Sådanne værker er beskyttet af ophavsretslovgivningen, og alle rettigheder forbeholdes.
+
+3. Du må ikke ændre hverken digitale kopier eller papirkopier af materiale, som du udskriver i overensstemmelse med vilkår for brug, og du må ikke anvende billeder, fotografier eller andet grafisk materiale eller video- eller audiosekvenser alene uden nogen ledsagende tekst.
+
+4. Du skal sikre, at vores status som ophavsmand til materialet på hjemmesiden og app altid anerkendes.
+
+5. Du må ikke anvende materiale på denne hjemmeside og app eller selve hjemmesiden og app til kommercielt brug uden at indhente tilladelse fra os hertil. Bortset fra som anført i ovenstående må ingen dele af denne hjemmeside og app gengives eller lagres på en anden hjemmeside eller medtages i et offentligt eller privat søgesystem eller -ydelse uden vor forudgående skriftlige tilladelse. Alle rettigheder, der ikke udtrykkeligt gives i disse vilkår, forbeholdes.
+
+# Privacy and Cookie Policy
+### Introduction
 All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applaus is responsible for the personal information collected through our website and app
 
 ### Collection of personal information
@@ -68,12 +146,58 @@ All comments, questions and requests regarding our use of your information shoul
 
 ### Complaint about processing of personal data
 You may complain about the processing of information and data relating to you. If there is a complaint about the processing of information, the complaint shall be submitted in accordance with the Personal Data Act, to the Bureau of Data Inspection(Datatilsynet), Persondatalovens § 58, stk. 1.
-#
-#
-#
-# Terms and Conditions
+
+# Handelsvilkår
+### Introduktion
+Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus formidler udelukkende salg af billetter mellem kunden og spillestedet.
+
+### Refundering af Betaling
+Købte billetter refunderes som udgangspunkt ikke. I tilfælde af aflysning henvises der dog til den ansvarlige arrangør for yderligere information og eventuel refundering. Billetter refunderes i disse tilfælde som udgangspunkt altid til billetkøber (I henhold til "Lov om visse forbrugeraftaler § 17 stk. 2 jf. § 9 stk. 2 nr. 2a" er køb af billetter IKKE omfattet af fortrydelsesretten).
+
+Som billetformidler hæfter Applaus ikke for tilbagebetaling i forbindelse med en aflysning. Applaus søger kontraktuelt at sikre, at arrangører refunderer billetkøbesummerne i tilfælde af aflysninger, men kan ikke påtage sig noget forretningsmæssigt ansvar herfor.
+
+### Forbehold for Event-ændringer
+Applaus forbeholder sig retten til at annullere udstedte billetter mod tilbagebetaling af billettens pris samt eventuelle gebyrer. Arrangøren forbeholder sig endvidere ret til i særlige tilfælde at ændre pladstildelingen inden for samme billetkategori, samt at flytte billetten til en anden kategori mod udbetaling af en eventuel prisdifference. Vi tager ligeledes forbehold for fejl og mangler i priser og beskrivelser – herunder udsolgte arrangementer.
+
+### Vores Ansvar som Billetformidler
+Applaus har intet ansvar over for kunden vedrørende arrangørers rekonstruktion, betalingsstandsning, konkurs, aflysning af arrangementer, andre mangler eller eventuelle andre reklamationer vedrørende et arrangement. Al henvendelse herom rettes til arrangøren. Information om arrangørens fulde navn, adresse, telefonnummer m.m. kan fås i appen, på www.applaus.io eller på tlf. +45 26 28 39 06.
+
+### Aflysning af Event
+I tilfælde af aflysning henvises der til den ansvarlige arrangør for yderligere information og eventuel refundering. Arrangøren forbeholder sig ret til at erstatte billetten med en/et tilsvarende kunstner/arrangement. Ændringer i repertoire, dato, delvis gennemførelse af et arrangement sidestilles ikke med en aflysning, hvorfor pengene herfor som udgangspunkt ikke refunderes. Se hertil arrangørens information om arrangementet.
+
+### Betaling for Billet
+Hos Applaus modtages betaling med følgende betalingskort: VISA/Dankort, VISA, MasterCard og American Express. Alle omkostninger fremgår af den viste billetpris. Prisen der ses til at starte med vil derfor være den endelige pris. Personhenførbare oplysninger opbevares og transmitteres i et lukket netværk. Der er altså ikke adgang til disse oplysninger fra internettet. Alle oplysninger vedrørende betalinger sendes krypteret til betalingstjenesten Stripe.
+
+### Videresalg af Billet
+Det er, jf. "Lov om videresalg af billetter til kultur- og idrætsarrangementer", ikke tilladt at sælge og videresælge billetter til overpris i Danmark. Det betyder bl.a., at det er forbudt at videresælge billetter med fortjeneste.
+
+### Særlige Event-begrænsninger
+Bemærk også, at der på de enkelte arrangementer kan være andre eller yderligere begrænsninger i forhold til billetters overdragelighed. Billetter må ikke anvendes kommercielt til pakkesalg, konkurrencer, videresalg eller lignende, medmindre arrangøren har givet tilladelse hertil.
+
+### Event Adgang
+Kontroller billettens oplysninger, herunder om arrangement, dato/tidspunkt og spillested er korrekt. Adgang gives mod indløsning af købt billet, enten på app eller i browseren. Ulovlig kopiering eller videresalg af billetter kan medføre, at adgang nægtes til arrangementet. Applaus og arrangøren har intet ansvar for problemer, som skyldes ulovlig kopiering og/eller videresalg af billetter. Læs mere om arrangementsspecifikke forhold under arrangementet her på Applaus og på arrangørens hjemmeside.
+
+### Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale
+Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
+
+### Generelle Købsbetingelser
+Købsaftalen er omfattet af dansk rets almindelige regler. Der er først indgået en bindende aftale, når Applaus har modtaget/registreret betaling. Vi forbeholder os ret til, uden forudgående varsel, at ændre disse betingelser. Ændringer gælder herefter efterfølgende ordrer. Det er dit ansvar at tjekke op på, om der er sket ændringer i betingelserne.
+
+### Vilkår for Brug af Applaus
+Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmeside og app til dit eget personlige brug på følgende grundlag:
+1. Du må ikke misbruge Applaus (herunder til hacking eller "scraping").
+
+2. Medmindre andet fremgår, tilhører ophavsretten, og andre immaterielle rettigheder der udspringer af hjemmeside og app, Applaus (dog tilfalder alle rettigheder ophavsmanden efter gængs ophavsretslovgivning), det samme er gældende for alt materiale, der offentliggøres på den (herunder bl.a. fotografier og grafiske billeder) af Applaus. Sådanne værker er beskyttet af ophavsretslovgivningen, og alle rettigheder forbeholdes.
+
+3. Du må ikke ændre hverken digitale kopier eller papirkopier af materiale, som du udskriver i overensstemmelse med vilkår for brug, og du må ikke anvende billeder, fotografier eller andet grafisk materiale eller video- eller audiosekvenser alene uden nogen ledsagende tekst.
+
+4. Du skal sikre, at vores status som ophavsmand til materialet på hjemmesiden og app altid anerkendes.
+
+5. Du må ikke anvende materiale på denne hjemmeside og app eller selve hjemmesiden og app til kommercielt brug uden at indhente tilladelse fra os hertil. Bortset fra som anført i ovenstående må ingen dele af denne hjemmeside og app gengives eller lagres på en anden hjemmeside eller medtages i et offentligt eller privat søgesystem eller -ydelse uden vor forudgående skriftlige tilladelse. Alle rettigheder, der ikke udtrykkeligt gives i disse vilkår, forbeholdes.
+
+# Terms & Conditions (English)
 ### Introduction
-By using and shopping with Applaus, you accept the conditions below. The Terms & Conditions are updated on a regular basis, so we recommend that you keep up to date on this. Applaus exclusively sell tickets on behalf of the venues. In the unprecedented case that there should be any confusion of these Terms & Conditions the Danish version will be treated as the Master version.
+By using and shopping with Applaus, you accept the conditions below. The Terms and Conditions are updated on a regular basis, so we recommend that you keep up to date on this. Applaus exclusively sell tickets on behalf of the venues. In the unprecedented case that there should be any confusion of these Terms and Conditions the Danish version will be treated as the Master version.
 
 ### Payment Refund
 Purchased tickets are not refundable under normal circumstances. In case of cancellation, however, please refer to the responsible organiser for further information and a possible refund. Tickets are in the event of cancellation in principle always refunded to the ticket buyer (according to the "Law on certain consumer agreements, Section 17, paragraph 2, cf. Section 9, paragraph 2, item 2a", the purchase of tickets is NOT covered by the cancellation right).
@@ -84,13 +208,13 @@ As a ticket broker, Applaus is not liable for repayment in case of a cancellatio
 Applaus reserves the right to cancel issued tickets against refund of the ticket price and any fees. The organiser also reserves the right to change the placement in the same category of tickets in special cases and to transfer the ticket to another category against payment of a possible price difference. We also take reservation for errors and omissions in prices and descriptions - including sold out events.
 
 ### Our Responsibility as a Ticket Broker
-Applaus has no responsibility regarding organisers' reconstruction, suspension of payments, bankruptcy, cancellation of events, other deficiencies or any other claims regarding an event. All inquiries should be addressed to the organiser. Information about the organiser's full name, address, telephone number, etc. can be found in the app, at www.applaus.io or by calling tel. +45 26 28 39 06.
+Applaus has no responsibility regarding organisers' reconstruction, suspension of payments, bankruptcy, cancellation of events, other deficiencies or any other claims regarding an event. All inquiries should be addressed to the organiser. Information about the organiser's full name, address, telephone number, etc. can be found either in the app, at www.applaus.io or by calling tel. Applaus at +45 26 28 39 06.
 
 ### Event Cancellation
 In case of cancellation, please refer to the responsible organiser for further information and possible refund. The organiser reserves the right to replace the ticket with a similar artist / event. Changes in repertoire, date, partial performance of an event are not considered as cancelled, so the money for this is not refundable. See the organiser's information about the event.
 
 ### Ticket Payment
-At Applaus, payment is received with the following payment cards: VISA/Dankort, VISA, MasterCard and American Express. All costs are shown in the shown ticket price. The price shown to begin with will therefore be the final price. Personal identifiable information is stored and transmitted in a closed network. There is therefore no access to this information from the internet. All information regarding payments is sent encrypted to the Stripe payment service.
+At Applaus, payment is received with the following payment cards: VISA/Dankort, VISA, MasterCard and American Express. All costs are shown in the shown ticket price. The price shown to begin with will therefore be the final price. Personal identifiable information is stored and transmitted securely. All information regarding payments is sent encrypted to the Stripe payment service.
 
 ### Ticket Resale
 It is, according to the "Law on Resale of Culture and Sports Events Tickets" ("Lov om videresalg af billetter til kultur- og idrætsarrangementer"), not allowed to sell and resell tickets at a premium in Denmark. This means, for example, that it is forbidden to resell tickets for a profit.
@@ -99,13 +223,13 @@ It is, according to the "Law on Resale of Culture and Sports Events Tickets" ("L
 Also, please keep in mind that on the individual events there may be other or additional restrictions in relation to the transferability of the tickets. Tickets may not be used commercially for package sales, competitions, resale or the like unless the organiser has given permission.
 
 ### Event Access
-Check the ticket information, including event, date / time and venue is correct. Access is granted against redeeming the purchased ticket(s), either on the app or in the browser. Illegal copying or resale of tickets may lead to denied access to the event. Applaus and the organiser are not responsible for problems caused by illegal copying and / or resale of tickets. Read more about event-specific events during the event here at Applaus and on the organiser's website.
+Check the ticket information, including event, date / time and venue is correct. Access is granted against redeeming the purchased ticket(s), either on the app or in the browser. Illegal copying or resale of tickets may lead to denied access to the event. Applaus and the organiser are not responsible for problems caused by illegal copying and / or resale of tickets. Read more about event-specific information here at Applaus and on the organisers' websites.
 
 ### Complaints over Receiving Unsolicited Marketing Material
 For complaints about unsolicited e-mails, the Consumer Ombudsman has created an electronic appeal. Complaints about email, text and MMS advertisements must be sent to (dansk@spamklage.dk). Received unsolicited commercial requests via other channels (fax, addressed letter or telephone) can be reported to Consumer Ombudsman@kfst.dk or Consumer Ombudsman, Carl Jacobsens Vej 35, 2500 Valby. For a detailed explanation of the appeal, refer to the Consumer Ombudsman's website www.forbrugerombudsmanden.dk.
 
 ### General Terms of Purchase
-The purchase agreement is governed by Danish law's general rules. A binding agreement has only been reached once Applaus has received / registered payment. We reserve the right to change these terms without notice. Changes then apply to subsequent orders. It is your responsibility to check for changes to the conditions.
+The purchase agreement is governed by Danish law's general rules. A binding agreement has only been reached once Applaus has received / registered payment. We reserve the right to change these terms without notice. Changes then apply to subsequent orders. It is your responsibility to check for changes to the Terms and Conditions.
 
 ### Terms for Using Applaus
 You can use Applaus, print and download extracts from our website and app for your own personal use on the following basis:
@@ -118,4 +242,4 @@ You can use Applaus, print and download extracts from our website and app for yo
 
 4. You must ensure that our status as the author of the material on the website and app is always acknowledged.
 
-5. You may not use material on this website and the app or the website itself and the app for commercial use without obtaining permission from us. Except as stated above, no part of this website and app may be reproduced or stored on any other website or included in any public or private search system or service without our prior written permission. All rights not expressly given in these terms are reserved.
+5. You may not use material on our website and the app, or the website itself and the app, for commercial use without obtaining permission from us. Except as stated above, no part of this website and app may be reproduced or stored on any other website or included in any public or private search system or service without our prior written permission. All rights not expressly given in these terms are reserved.
