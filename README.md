@@ -1,5 +1,5 @@
 # Table of contents
-### [Privatlivs and Cookie Politik (Danish)](#Privatlivs-and-Cookie-Politik-(Danish)) 
+### [Privatlivs- og Cookie-Politik (Danish)](#Privatlivs-and-Cookie-Politik-(Danish)) 
 - [Generelt](#Generelt)
 - [Refundering af Billetter](#Refundering-af-Billetter)
 - [Forbehold for Event-ændringer](#Forbehold-for-Event-ændringer)
@@ -38,7 +38,7 @@
 - [Generelle Købsbetingelser](#Generelle-Købsbetingelser)
 - [Vilkår for Brug af Applaus](#Vilkår-for-Brug-af-Applaus)
 
-### [Terms and Conditions(English)](#Terms-and-Conditions(English))
+### [Terms and Conditions (English)](#Terms-and-Conditions (English))
 - [Introduction](#Introduction)
 - [Payment Refund](#Payment-Refund)
 - [Reservations for Event Changes](Reservations-for-Event-Changes)
@@ -52,7 +52,7 @@
 - [General Terms of Purchase](#General-Terms-of-Purchase)
 - [Terms for Using Applaus](#Terms-for-Using-Applaus)
 
-# Privatlivs og Cookie Politik
+# Privatlivs- og Cookie-Politik
 ### Generelt
 Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus ApS formidler udelukkende salg af billetter mellem kunden og spillestedet.
 
@@ -83,8 +83,7 @@ Bemærk også, at der på de enkelte arrangementer kan være andre eller yderlig
 Kontroller billettens oplysninger, herunder om arrangement, dato/tidspunkt og spillested er korrekt. Adgang gives mod indløsning af købt billet, enten på app eller i browseren. Ulovlig kopiering eller videresalg af billetter kan medføre, at adgang nægtes til arrangementet. Applaus og arrangøren har intet ansvar for problemer, som skyldes ulovlig kopiering og/eller videresalg af billetter. Læs mere om arrangementsspecifikke forhold under arrangementet her på Applaus og på arrangørens hjemmeside
 
 ### Klageadgang over Modtagelse af Markedsføringsmateriale
-Klageadgang over modtagelse af markedsføringsmateriale</Subtitle>
-  <Paragraph>Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
+Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
 
 ### Generelle Købsbetingelser
 Købsaftalen er omfattet af dansk rets almindelige regler. Der er først indgået en bindende aftale, når Applaus har modtaget/registreret betaling. Vi forbeholder os ret til, uden forudgående varsel, at ændre disse betingelser. Ændringer gælder herefter efterfølgende ordrer. Det er dit ansvar at tjekke op på, om der er sket ændringer i betingelserne.
@@ -103,7 +102,7 @@ Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmesi
 
 # Privacy and Cookie Policy
 ### Introduction
-All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applaus is responsible for the personal information collected through our website and app
+All personal data processed by us is protected by the Danish Data Protection Act (the "Persondataloven"). Applaus is responsible for the personal information collected through our website and app.
 
 ### Collection of personal information
 When you visit the website, or use the app to purchase tickets, you may be asked to provide information about yourself. These information could for example be your name, contact information (phone number and e-mail address) and credit card information. We may also collect information about your use of the website and the app as well as information about you based on the material (such as messages and notices) that you publish on the website and the emails or letters you send to us as well as Information provided using facebook login.
