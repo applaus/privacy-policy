@@ -24,7 +24,7 @@
 
 ### Handelsvilkår - Danish
 
-- [Generelt](#generally)
+- [Generelle Handelsvilkår](#generelle-handelsvilkår)
 - [Refundering af Betaling](#refundering-af-betaling)
 - [Forbehold for Event-ændringer](#forbehold-for-event-ændringer)
 - [Vores Ansvar som Billetformidler](#vores-ansvar-som-billetformidler)
@@ -33,13 +33,12 @@
 - [Videresalg af Billet](#videresalg-af-billet)
 - [Særlige Event-begrænsninger](#særlige-event-begrænsninger)
 - [Event Adgang](#event-adgang)
-- [Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale](#klageadgang-over-uopfordret-modtagelse-af-markedsføringsmateriale)
-- [Generelle Købsbetingelser](#generelle-købsbetingelser)
 - [Vilkår for Brug af Applaus](#vilkår-for-brug-af-applaus)
+- [Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale](#klageadgang-over-uopfordret-modtagelse-af-markedsføringsmateriale)
 
 ### Terms and Conditions - English
 
-- [Generally](#generally)
+- [General Terms of Purchase](#general-terms-of-purchase)
 - [Payment Refund](#payment-refund)
 - [Reservations for Event Changes](#reservations-for-event-changes)
 - [Our Responsibility as a Ticket Broker](#our-responsibility-as-a-ticket-broker)
@@ -48,9 +47,8 @@
 - [Ticket Resale](#ticket-resale)
 - [Event Restrictions](#event-restrictions)
 - [Event Access](#event-access)
-- [Complaints over Receiving Unsolicited Marketing Material](#complaints-over-receiving-unsolicited-marketing-material)
-- [General Terms of Purchase](#general-terms-of-purchase)
 - [Terms for Using Applaus](#terms-for-using-applaus)
+- [Complaints over Receiving Unsolicited Marketing Material](#complaints-over-receiving-unsolicited-marketing-material)
 
 # Privatlivs- og Cookie-Politik - Danish
 ### Generelt
@@ -75,7 +73,7 @@ De oplysninger, du giver os, vil blive overført og lagret på vores serverer, s
 
 De tredjeparter, som vi deler dine personoplysninger med, kan påtage sig forskellige aktiviteter såsom behandling af kreditkortoplysninger og supportydelser på vores vegne. Vi kan derudover have brug for at give dine oplysninger til den arrangør, som du har afgivet din ordre hos, så arrangøren kan behandle din ordre. Ved at indsende dine personoplysninger samtykker du til denne overførsel, lagring og behandling.
 
-Hvis vores firma indgår i et joint venture, er købt af eller fusionerer med et andet selskab, vil dine oplysninger blive overført til det nye selskab, vores samarbejdspartnere, ejere eller deres rådgivere
+Hvis vores firma indgår i et joint venture, bliver købt af eller fusionerer med et andet selskab, vil dine oplysninger blive overført til det nye selskab, vores samarbejdspartnere, ejere eller deres rådgivere
 
 Vi kan overdrage de personoplysninger, du giver os, hvis vi er forpligtet til at overdrage eller dele dine personoplysninger (og/eller hvis vi mener at være forpligtede til dette) i henhold til den gældende lovgivning, eller ved håndhævelse af hjemmesidevilkårene og andre aftaler, eller for at beskytte vores rettigheder, arrangørernes eller tredjeparters rettigheder. Dette inkluderer udveksling af personoplysninger med andre selskaber og organisationer med henblik på beskyttelse og forebyggelse af bedrageri.
 
@@ -90,10 +88,10 @@ Du har ret til at se de personoplysninger, vi har registreret om dig, og du kan 
 Såfremt du forlanger, at vi giver dig skriftlig indsigt i dine personoplysninger, forbeholder vi os ret til at kræve DKK 10 for hver påbegyndt printet side. Betalingen kan imidlertid ikke overstige DKK 200. Vi forbeholder os ret til kun at besvare henvendelse om indsigt i personoplysninger, såfremt der er forløbet mere end 6 måneder fra din sidste henvendelse om det samme.
 
 ### Ændringer i Privatlivs- og Cookie-Politikken
-Enhver ændring af vores Privatlivs- og cookiepolitik vil blive offentliggjort på hjemmesiden og via e-mail, hvis det er relevant.
+Enhver ændring af vores Privatlivs- og Cookie-Politik vil blive offentliggjort på hjemmesiden og via e-mail, hvis det er relevant.
 
 ### Kontakt Vedrørende Indsigt i Dine Data
-Alle kommentarer, spørgsmål og anmodninger vedrørende vores brug af dine personoplysninger er velkomne og skal stilles til Applaus ApS, CVR-nr. 38473646, Porcelænshaven 26, 2. sal, 2000 Frederiksberg, pr. e-mail applaus.io@gmail.com, eller telefon +45 26 28 39 06 mandag-fredag, kl. 09:00-20:00.
+Alle kommentarer, spørgsmål og anmodninger vedrørende vores brug af dine personoplysninger er velkomne og skal stilles til Applaus ApS, CVR-nr. 38473646, Porcelænshaven 26, 2. sal, 2000 Frederiksberg, pr. e-mail applaus.io@gmail.com, eller telefon +45 26 28 39 06 mandag-fredag kl. 09:00-20:00.
 
 ### Klage over behandling af personoplysninger og data
 Du har mulighed for at klage over behandlingen af oplysninger og data vedrørende dig. Hvis der er tale om en klage over behandlingen af oplysninger, indgives klagen i henhold til Persondataloven, til Datatilsynet, Persondatalovens § 58, stk. 1.
@@ -145,8 +143,10 @@ All comments, questions and requests regarding our use of your information shoul
 You may complain about the processing of information and data relating to you. If there is a complaint about the processing of information, the complaint shall be submitted in accordance with the Personal Data Act, to the Bureau of Data Inspection(Datatilsynet), Persondatalovens § 58, stk. 1.
 
 # Handelsvilkår - Danish
-### Introduktion
+### Generelle Handelsvilkår
 Ved at handle med Applaus accepterer du nedenstående retningslinjer/betingelser for køb. Retningslinjerne bliver løbende opdateret, så vi anbefaler, at du holder dig løbende opdateret herom. Applaus formidler udelukkende salg af billetter mellem kunden og spillestedet.
+
+Købsaftalen er omfattet af dansk rets almindelige regler. Der er først indgået en bindende aftale, når Applaus har modtaget/registreret betaling. Vi forbeholder os ret til, uden forudgående varsel, at ændre disse betingelser. Ændringer gælder herefter efterfølgende ordrer. Det er dit ansvar at tjekke op på, om der er sket ændringer i betingelserne.
 
 ### Refundering af Betaling
 Købte billetter refunderes som udgangspunkt ikke. I tilfælde af aflysning henvises der dog til den ansvarlige arrangør for yderligere information og eventuel refundering. Billetter refunderes i disse tilfælde som udgangspunkt altid til billetkøber (I henhold til "Lov om visse forbrugeraftaler § 17 stk. 2 jf. § 9 stk. 2 nr. 2a" er køb af billetter IKKE omfattet af fortrydelsesretten).
@@ -174,12 +174,6 @@ Bemærk også, at der på de enkelte arrangementer kan være andre eller yderlig
 ### Event Adgang
 Kontroller billettens oplysninger, herunder om arrangement, dato/tidspunkt og spillested er korrekt. Adgang gives mod indløsning af købt billet, enten på app eller i browseren. Ulovlig kopiering eller videresalg af billetter kan medføre, at adgang nægtes til arrangementet. Applaus og arrangøren har intet ansvar for problemer, som skyldes ulovlig kopiering og/eller videresalg af billetter. Læs mere om arrangementsspecifikke forhold under arrangementet her på Applaus og på arrangørens hjemmeside.
 
-### Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale
-Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
-
-### Generelle Købsbetingelser
-Købsaftalen er omfattet af dansk rets almindelige regler. Der er først indgået en bindende aftale, når Applaus har modtaget/registreret betaling. Vi forbeholder os ret til, uden forudgående varsel, at ændre disse betingelser. Ændringer gælder herefter efterfølgende ordrer. Det er dit ansvar at tjekke op på, om der er sket ændringer i betingelserne.
-
 ### Vilkår for Brug af Applaus
 Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmeside og app til dit eget personlige brug på følgende grundlag:
 1. Du må ikke misbruge Applaus (herunder til hacking eller "scraping").
@@ -192,9 +186,14 @@ Du har lov til at bruge Applaus, udskrive og downloade uddrag fra vores hjemmesi
 
 5. Du må ikke anvende materiale på denne hjemmeside og app eller selve hjemmesiden og app til kommercielt brug uden at indhente tilladelse fra os hertil. Bortset fra som anført i ovenstående må ingen dele af denne hjemmeside og app gengives eller lagres på en anden hjemmeside eller medtages i et offentligt eller privat søgesystem eller -ydelse uden vor forudgående skriftlige tilladelse. Alle rettigheder, der ikke udtrykkeligt gives i disse vilkår, forbeholdes.
 
+### Klageadgang over Uopfordret Modtagelse af Markedsføringsmateriale
+Til klager over uanmodede e-mails har Forbrugerombudsmanden oprettet en elektronisk klageadgang. Klager over danske e-mail-, sms- og mms-reklamer skal sendes til (dansk@spamklage.dk). Modtaget uanmodede reklamehenvendelser via andre kanaler (telefax, adresseret brev eller pr. telefon) kan indberettes til Forbrugerombudsmanden@kfst.dk eller Forbrugerombudsmanden, Carl Jacobsens Vej 35, 2500 Valby. For en nærmere forklaring vedrørende klageadgangen henvises der til Forbrugerombudsmandens hjemmeside www.forbrugerombudsmanden.dk.
+
 # Terms and Conditions - English
-### Introduction
+### General Terms of Purchase
 By using and shopping with Applaus, you accept the conditions below. The Terms and Conditions are updated on a regular basis, so we recommend that you keep up to date on this. Applaus exclusively sell tickets on behalf of the venues. In the unprecedented case that there should be any confusion of these Terms and Conditions the Danish version will be treated as the Master version.
+
+The purchase agreement is governed by Danish law's general rules. A binding agreement has only been reached once Applaus has received / registered payment. We reserve the right to change these terms without notice. Changes then apply to subsequent orders. It is your responsibility to check for changes to the Terms and Conditions.
 
 ### Payment Refund
 Purchased tickets are not refundable under normal circumstances. In case of cancellation, however, please refer to the responsible organiser for further information and a possible refund. Tickets are in the event of cancellation in principle always refunded to the ticket buyer (according to the "Law on certain consumer agreements, Section 17, paragraph 2, cf. Section 9, paragraph 2, item 2a", the purchase of tickets is NOT covered by the cancellation right).
@@ -222,12 +221,6 @@ Also, please keep in mind that on the individual events there may be other or ad
 ### Event Access
 Check the ticket information, including event, date / time and venue is correct. Access is granted against redeeming the purchased ticket(s), either on the app or in the browser. Illegal copying or resale of tickets may lead to denied access to the event. Applaus and the organiser are not responsible for problems caused by illegal copying and / or resale of tickets. Read more about event-specific information here at Applaus and on the organisers' websites.
 
-### Complaints over Receiving Unsolicited Marketing Material
-For complaints about unsolicited e-mails, the Consumer Ombudsman has created an electronic appeal. Complaints about email, text and MMS advertisements must be sent to (dansk@spamklage.dk). Received unsolicited commercial requests via other channels (fax, addressed letter or telephone) can be reported to Consumer Ombudsman@kfst.dk or Consumer Ombudsman, Carl Jacobsens Vej 35, 2500 Valby. For a detailed explanation of the appeal, refer to the Consumer Ombudsman's website www.forbrugerombudsmanden.dk.
-
-### General Terms of Purchase
-The purchase agreement is governed by Danish law's general rules. A binding agreement has only been reached once Applaus has received / registered payment. We reserve the right to change these terms without notice. Changes then apply to subsequent orders. It is your responsibility to check for changes to the Terms and Conditions.
-
 ### Terms for Using Applaus
 You can use Applaus, print and download extracts from our website and app for your own personal use on the following basis:
 
@@ -240,3 +233,6 @@ You can use Applaus, print and download extracts from our website and app for yo
 4. You must ensure that our status as the author of the material on the website and app is always acknowledged.
 
 5. You may not use material on our website and the app, or the website itself and the app, for commercial use without obtaining permission from us. Except as stated above, no part of this website and app may be reproduced or stored on any other website or included in any public or private search system or service without our prior written permission. All rights not expressly given in these terms are reserved.
+
+### Complaints over Receiving Unsolicited Marketing Material
+For complaints about unsolicited e-mails, the Consumer Ombudsman has created an electronic appeal. Complaints about email, text and MMS advertisements must be sent to (dansk@spamklage.dk). Received unsolicited commercial requests via other channels (fax, addressed letter or telephone) can be reported to Consumer Ombudsman@kfst.dk or Consumer Ombudsman, Carl Jacobsens Vej 35, 2500 Valby. For a detailed explanation of the appeal, refer to the Consumer Ombudsman's website www.forbrugerombudsmanden.dk.
